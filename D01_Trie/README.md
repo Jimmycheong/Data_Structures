@@ -5,12 +5,11 @@
 
 Contains two main functions:
 
-- 1. add_word_to_trie():
-	- Adds a word to the trie
+### add_word_to_trie():
+Adds a word to the trie
 
-- 2. find_prefix():
-	- find the word in the tree
-
+### find_prefix():
+find the word in the tree
 
 
 Learning resources: 
