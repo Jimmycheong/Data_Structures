@@ -1,5 +1,6 @@
 # D01 Trie
 
+RESULT OF RESEARCH: https://github.com/Jimmycheong/Trie_Search_Engine/blob/master/functions.py
 
 ## Basic Trie example
 
